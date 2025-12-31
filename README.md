@@ -54,8 +54,8 @@ Sou um entusiasta da tecnologia focado em resolver problemas através do código
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -70,5 +70,5 @@ Sou um entusiasta da tecnologia focado em resolver problemas através do código
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/moabdev/moabdev/output/github-contribution-grid-snake.svg" />
 </div>
