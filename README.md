@@ -51,11 +51,18 @@ Sou um entusiasta da tecnologia focado em resolver problemas através do código
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moabdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabdev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/moabdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabdev&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=moabdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
 ---
