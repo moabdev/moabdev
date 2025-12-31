@@ -73,3 +73,7 @@ Sou um entusiasta da tecnologia focado em resolver problemas através do código
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/moabdev/moabdev/output/github-contribution-grid-snake.svg" />
+</div>
